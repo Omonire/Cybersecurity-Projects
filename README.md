@@ -45,9 +45,6 @@ Edit
 python port_scanner_gui.py
 Example CLI Output:
 
-mathematica
-Copy
-Edit
 Enter Target IP or Host: 192.168.1.1
 Enter Port Range (e.g. 20-80): 20-80
 Open Ports: 22, 80
@@ -63,4 +60,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 👨‍💻 Author
 Omonire Great/ omonire4 /omonire
+
 Teen Cybersecurity Enthusiast | CEH, CySA+, EPS, NSS, PY-E | Python & Network Security | Building Ethical Hacking & Security Automation Projects | https://github.com/omonire
